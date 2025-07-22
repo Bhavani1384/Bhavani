@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konga Bhavani</h1>
-<h3 align="center">A passionate cybersecurity from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavani1384&label=Profile%20views&color=0e75b6&style=flat" alt="bhavani1384" /> </p>
 
