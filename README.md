@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhavani-konga" target="blank"><img src="https://img.shields.io/twitter/follow/bhavani-konga?logo=twitter&style=for-the-badge" alt="bhavani-konga" /></a> </p>
 
-- 🔭 I’m currently working in  **FACE PAY SCAN**
+- 🔭 I’m currently working on  **FACE PAY SCAN**
 
 - 🌱 I’m currently learning **Java,AWS,Ethical hacking**
 
